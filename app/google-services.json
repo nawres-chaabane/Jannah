@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658863858047",
+    "project_id": "application7-b06bd",
+    "storage_bucket": "application7-b06bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658863858047:android:e4ee1ae50410a714fa3a4a",
+        "android_client_info": {
+          "package_name": "mkademghofrane.tn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658863858047-vjrcn1l9a34qobk739oo1tffjvsftbk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0-vYkdIKx6mGM67E6yN3hXV6EbSrAzMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658863858047-vjrcn1l9a34qobk739oo1tffjvsftbk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

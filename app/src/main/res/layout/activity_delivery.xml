@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your package is being delivered\nto your
+location"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/armex_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/purple_200"
+        android:text="Aramex"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+
+    <Button android:id="@+id/tunisia_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/purple_200"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:text="Tunisia \nExpress" />
+
+    <Button
+        android:id="@+id/jumia_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/purple_200"
+        android:text="Jumia"
+        android:textAllCaps="false"
+        android:textStyle="bold" />
+
+    <Button android:id="@+id/yassir_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple_200"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:text="Yassir" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="match_parent"
+        android:layout_height="348dp"
+        app:srcCompat="@drawable/delivery" />
+</LinearLayout>

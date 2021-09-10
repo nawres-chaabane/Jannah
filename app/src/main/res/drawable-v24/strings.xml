@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">produit_terroir</string>
+    <string name="jannahapp">Welcome to Jannah</string>
+    <string name="full_name">Full Name</string>
+    <string name="mdp">Password</string>
+    <string name="mail">Email Adress</string>
+    <string name="signin"><u><b>Sign in</b></u></string>
+    <string name="register"><i>Register</i></string>
+    <string name="forget"><u><b>Forget Password?</b></u></string>
+</resources>
